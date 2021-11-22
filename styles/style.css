@@ -1,0 +1,33 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 50px;
+  padding: 20px 0;
+  text-shadow: 3px 3px 10px blue
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-decoration: sienna;
+}
+
+img{
+  display:block;
+  margin: 0 auto;
+}
+
+html{
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+background-color: springgreen;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 50px 20px;
+  border: 5px solid black;
+}
